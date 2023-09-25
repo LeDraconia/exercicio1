@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: #edede9;
+}
+header{
+    background-color: white;
+}
+img{
+    width: 250px;
+    height: 50px;
+    margin: 20px;
+
+}
+h1{
+    text-align: center;
+}
+section{
+    background-color: bisque;
+}
+
+.frase{
+
+    color: red;
+    font-weight: bold;
+}
+
+footer{
+    background-color: antiquewhite;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+}
